@@ -5,8 +5,8 @@ TrustLand is a professional web application built on the Stellar blockchain to s
 ---
 
 ### 🌐 Links
-- **Live Demo**: [Open TrustLand](https://trustland-stellar.vercel.app/) *(Placeholder)*
-- **Demo Video**: [Watch Demo](https://youtu.be/dummy-video-id) *(Placeholder)*
+- **Live Demo**: [Open TrustLand](https://durvesh452.github.io/LEVEL-5/)
+- **Demo Video**: [Watch Demo](https://youtu.be/dummy-video-id) *(Please replace with your actual video)*
 - **Public Repository**: [GitHub - TrustLand](https://github.com/Durvesh452/LEVEL-5)
 
 ---
@@ -28,15 +28,15 @@ See our [ARCHITECTURE.md](./ARCHITECTURE.md) for a deep dive into the system des
 
 ### 📈 User Validation & Feedback
 
-**Full Feedback Data**: [user_feedback_responses.csv](./user_feedback_responses.csv)
+**Full Feedback Data**: [User Validation Spreadsheet](https://docs.google.com/spreadsheets/d/1q_CCk8R9VVPZKe0zRXJw2_NCQrqWUsHZkSnFaVzfMZU/edit?usp=sharing)
 
 | User Wallet Address | Rating | Feedback Summary | Status |
 | :--- | :--- | :--- | :--- |
-| `GDV6O3V7Z2VPT7F7U6O6PGRTX2V7Z2V` | 5/5 | "Amazing UI. The Stellar integration is so fast!" | ✅ Verified |
-| `GAW7RLQT6Z2Z2V7Z2V7Z2V7Z2V7Z2V7RLQ` | 4/5 | "Works great! Would love more file types." | ✅ Verified |
-| `GBX7Z2V7Z2V7Z2V7Z2V7Z2V7Z2V7Z2VZXY` | 5/5 | "The design feels like a multi-million dollar app." | ✅ Verified |
-| `GCY7Z2V7Z2V7Z2V7Z2V7Z2V7Z2V7Z2VABC` | 4/5 | "Easy to use. The copy buttons are a lifesaver." | ✅ Verified |
-| `GDZ7Z2V7Z2V7Z2V7Z2V7Z2V7Z2V7Z2VDEF` | 5/5 | "Fraud prevention in real estate is critical." | ✅ Verified |
+| `GAYMWU2VTZC6646FV4M5753ZZUBIXZHSBLBOLTHBHCVFQIOBZH6D5W4H` | 5/5 | "No, everything looks good and systematic, Great work!" | ✅ Verified |
+| `GDC55QCAP36VCKEJ66YILV45LR6GRLJOE7AZYYMUM5MN4WAKPFAHBARL` | 5/5 | "No improvements" | ✅ Verified |
+| `GAYJALSDDA3QYIIQDFESHZCHNKGWV43C76Y2MSL6MZS6RCGO7YO3HTMQ` | 5/5 | "no" | ✅ Verified |
+| `GBUDUGMHCM7B54DIB5P5LP4PP6MG7MJ6VUBBYDB53BZNZCTH36LLG5MG` | 5/5 | "UI could be better" | ✅ Verified |
+| `GAMZFU5HFWQRSVTHYCRGVDHRFAQKSVIMU232D3LITOEIDVD6MZVXVOHC` | 5/5 | "No improvements, great website!" | ✅ Verified |
 
 ---
 
