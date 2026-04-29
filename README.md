@@ -6,7 +6,7 @@ TrustLand is a professional web application built on the Stellar blockchain to s
 
 ### 🌐 Links
 - **Live Demo**: [Open TrustLand](https://durvesh452.github.io/LEVEL-5/)
-- **Demo Video**: [Watch Demo](https://youtu.be/dummy-video-id) *(Please replace with your actual video)*
+- **Demo Video**: [Watch Demo](https://youtu.be/AWLKD8rpFXQ) 
 - **Public Repository**: [GitHub - TrustLand](https://github.com/Durvesh452/LEVEL-5)
 
 ---
